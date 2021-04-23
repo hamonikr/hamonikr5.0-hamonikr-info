@@ -1,10 +1,10 @@
 RELEASE=5.0
-CODENAME=public
+CODENAME=hanla
 EDITION="Cinnamon"
-DESCRIPTION="HamoniKR 5.0 Public"
+DESCRIPTION="HamoniKR 5.0 Hanla"
 DESKTOP=Gnome
 TOOLKIT=GTK
 NEW_FEATURES_URL=https://hamonikr.org/menuDownload_JIN
 RELEASE_NOTES_URL=https://hamonikr.org/menuDownload_JIN
 USER_GUIDE_URL=http://pms.invesume.com:8090/40jin
-GRUB_TITLE=HamoniKR 5.0 Public
+GRUB_TITLE=HamoniKR 5.0 Hanla
